@@ -1,0 +1,23 @@
+Team member: sh71 (Siqi Huang), yc92 (Yiwen Chen)
+
+We implemented the functions as declared in the source code and required in the pdf.
+
+The public methods:
+
+1.	MyDB_BPlusTreeReaderWriter ()
+
+2.	getRangeIteratorAlt ()
+
+3.	getSortedRangeIteratorAlt ()
+
+4.	append ()
+
+5.	printTree ()
+
+The private methods:
+
+1.	discoverPages ()
+
+2.	append ()
+
+3.	getINRecord ()
