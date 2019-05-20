@@ -1,0 +1,7 @@
+Team member: sh71 (Siqi Huang), yc92 (Yiwen Chen)
+
+We implemented the functions as declared in the source code and required in the pdf.
+
+To run the code on Clear, use the command under the directory Build/: bin/sqlUnitTest cat directory
+
+The check results of the 17 sql statements are copied in the file results.txt

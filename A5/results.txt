@@ -1,0 +1,18 @@
+results:
+1. Query successfully
+2. Error: Selected attribute: [s_s_suppkey] is not in the grouping attributes
+3. Error: Operator > applied to * ([l_l_extendedprice], - (int[1], [l_l_discount])) and  string[a string]. They must be in the same type of number or string.
+4. Error: The child of operator sum: + ([l_l_returnflag], + ([l_l_shipdate], [l_l_commitdate])) is of type string. But we only allows the operand type of sum be number.
+5. Query successfully
+6. Error: Operator > applied to + ([l_l_tax], [l_l_discount]) and  string[date2]. They must be in the same type of number or string.
+7. Error: Unknown attribute name: k_orderkey
+8. Error: Unknown table name: h
+9. Error: The rhs of operator -: string[here is another] is of type string. But we only allows the operand type of - be number.
+10. Error: The input table customers not in the database.
+11. Query successfully
+12. Query successfully
+13. Error: Unknown attribute name: l_extendedprice
+14. Query successfully
+15. Error: Operator > applied to + ([l_l_discount], [l_l_extendedprice]) and  string[327]. They must be in the same type of number or string.
+16. Query successfully
+17. Query successfully
